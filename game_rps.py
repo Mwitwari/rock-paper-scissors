@@ -32,8 +32,8 @@ def play(user_choice, comp_choice):
     user_choice=get_user_choice()
     comp_choice=get_computer_choice()
     result=determine_winner(user_choice, comp_choice)
-    print(result)
-    return
+    
+    return(result)
 play(get_user_choice, get_computer_choice)
 
 
