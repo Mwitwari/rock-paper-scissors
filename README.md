@@ -1,24 +1,25 @@
-#Rock Paper Scissor
+# Rock Paper Scissors
+
 A simple implementation of the classic Rock-Paper-Scissors game. Play against the computer and see who wins!
 
-#Features
-Single-player vs computer
+## Features
 
-#How to play
-random Computer choice from the 3
-User inputs their choice and the two are compared
-the winner is decided
+- Single-player vs computer
 
-#RULES
-Rock beats Scissors
+## How to Play
 
-Scissors beats Paper
+- Random computer choice from the 3 options (Rock, Paper, Scissors)  
+- User inputs their choice  
+- Choices are compared and the winner is decided
 
-Paper beats Rock
+## Rules
 
-Same choice: It's a draw!
+- **Rock** beats **Scissors**  
+- **Scissors** beats **Paper**  
+- **Paper** beats **Rock**  
+- Same choice: It's a **draw!**
 
+## Technologies Used
 
-#Technologies Used
-Language: Python 
-Clean and intuitive interface (CLI/Web/GUI based on your version)
+- **Language**: Python  
+- Clean and intuitive interface (CLI/Web/GUI based on your version)
